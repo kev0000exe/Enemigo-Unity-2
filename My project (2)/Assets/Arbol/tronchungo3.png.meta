@@ -1,0 +1,1139 @@
+fileFormatVersion: 2
+guid: 7934f8ebaecfe384fa295008e7dda88f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tronchungo3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266.57144
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1841d04c1c513ed4fab3336121569ea2
+      internalID: 989155269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 266.57144
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fcbf97d3bc5834799ecc9860065d48
+      internalID: -911761551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 266.57144
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c393f7e7263bb6489cfd8f233648b5e
+      internalID: -1750445324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 266
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166bd44828c457f4db9a21525fbbc87d
+      internalID: -1946358157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_4
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 266.57144
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310cb3cbe3dbeff48be27e96924035ae
+      internalID: -1634023040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_5
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 266.57144
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51912f7e15fdd545a4f092458e1567d
+      internalID: -236045338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222.57143
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe913492283910a4185d8261584ff496
+      internalID: -1809596359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_7
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 222.57143
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db729bb5653a8e34d804234dc53a2607
+      internalID: -1268440598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 222.57143
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00d72f2293c154459226f4767527994
+      internalID: 1786490644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_9
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 222.57143
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f0af2e1fc235e43b373a594e219b2a
+      internalID: -1943914015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_10
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 222.57143
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1874c10cab58c644b810220f9577076
+      internalID: -397124939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_11
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 222.57143
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0337fe7f890984bbba158eb72f6172
+      internalID: -315415482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_12
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 222.57143
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb654c013e13064c99603e6b2c67938
+      internalID: 92363024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_13
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 222.57143
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbe3a508357f1f44a6f92dc5810f41f
+      internalID: 1525849579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_14
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 222.57143
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b480dc4e25da047b7288c24938cbf7
+      internalID: -837610555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178.57143
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e3841978c55614193a24f13c5791ef
+      internalID: -1521618552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_16
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 178.57143
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63213ed9029c5f40871c17ce705c55d
+      internalID: 365580328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_17
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 178.57143
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e916f59f404574d969177b788cb319
+      internalID: -460587710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_18
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 178.57143
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4a507d3ba4ae74d908843e2f811dcf
+      internalID: -1859897933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_19
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 178.57143
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc81e55461d60d1499c8312c364574f2
+      internalID: -1987077617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_20
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 178.57143
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0ec032c12dc224aac776c6b8a0f7b9
+      internalID: -1917814365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_21
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 178.57143
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121dbf7e153de024b8197fd51beba2cb
+      internalID: -1560966102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134.57143
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0229c689efa940648a2dcb8262985cc9
+      internalID: 1082167216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_23
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 134.57143
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b5427c7033cbf438b919b7849a10ff
+      internalID: -427691370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_24
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 134.57143
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec78fc7be399ae48895d89c8d94680a
+      internalID: 858696416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_25
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 134.57143
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdaccc5f202b6948a5ee90a9c380ff9
+      internalID: -1561999638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_26
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 134.57143
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc48d195721515459f22d9b40e2351a
+      internalID: -498099853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_27
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 134.57143
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c368d7afaa5feae4d88c219e91eb7940
+      internalID: -497378018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_28
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 134.57143
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aaeaae360a580a47b8b6a4768cc88c0
+      internalID: 1623617606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_29
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 134.57143
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa3c55a9fbb58c46b5e2f66304d64a1
+      internalID: 302544723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_30
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 134.57143
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad1e16dadcbfc942a36710e2a14dd69
+      internalID: -2108974315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_31
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 90.57143
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991c5c4ce2c3d284681f10f8f040369b
+      internalID: -1333217062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_32
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 90.57143
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd09cd6795505c42b38fb9cf6120201
+      internalID: -1871108758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_33
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 90.57143
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b589bec8fbcf14d8b9c5d098f9c3ed
+      internalID: 1928509685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_34
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 90.57143
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c091cddfeca52442854ad4414a52a6e
+      internalID: -59449745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_35
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 90.57143
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ea4897bf2c6dd469014980416e8911
+      internalID: -162982800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_36
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 90.57143
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1411b668513d9674c89a0b76a0e54e7d
+      internalID: 61787886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_37
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 90.57143
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bc7010bc3c8e449a552ab1bbf5625a
+      internalID: 1521815891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46.57143
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cb77d75c9dde44b861dbe8a7b0b8a3
+      internalID: 1129535696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_39
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 46.57143
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf5957fdff8a5a4ba96ad9cc058d064
+      internalID: -1535837473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_40
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 46.57143
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57da783afcf81f14f8d778185d101891
+      internalID: 241353792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_41
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 46.57143
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439ad1b442dfe4249950bd8a6af62f2e
+      internalID: 322603619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_42
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 46.57143
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07a9e014a7801a4c9e6af8f9bbe7f51
+      internalID: -788542259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.5714302
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548e6e675ded3194cb7973434ea7224a
+      internalID: 328807164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_44
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2.5714302
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439095ca0dc138345b1fe07847ffb0e4
+      internalID: -1975628311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tronchungo3_45
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 2.5714302
+        width: 43.88889
+        height: 44.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810783666b9cefb4e86b632059f6df03
+      internalID: 649686221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tronchungo3_0: 989155269
+      tronchungo3_1: -911761551
+      tronchungo3_10: -397124939
+      tronchungo3_11: -315415482
+      tronchungo3_12: 92363024
+      tronchungo3_13: 1525849579
+      tronchungo3_14: -837610555
+      tronchungo3_15: -1521618552
+      tronchungo3_16: 365580328
+      tronchungo3_17: -460587710
+      tronchungo3_18: -1859897933
+      tronchungo3_19: -1987077617
+      tronchungo3_2: -1750445324
+      tronchungo3_20: -1917814365
+      tronchungo3_21: -1560966102
+      tronchungo3_22: 1082167216
+      tronchungo3_23: -427691370
+      tronchungo3_24: 858696416
+      tronchungo3_25: -1561999638
+      tronchungo3_26: -498099853
+      tronchungo3_27: -497378018
+      tronchungo3_28: 1623617606
+      tronchungo3_29: 302544723
+      tronchungo3_3: -1946358157
+      tronchungo3_30: -2108974315
+      tronchungo3_31: -1333217062
+      tronchungo3_32: -1871108758
+      tronchungo3_33: 1928509685
+      tronchungo3_34: -59449745
+      tronchungo3_35: -162982800
+      tronchungo3_36: 61787886
+      tronchungo3_37: 1521815891
+      tronchungo3_38: 1129535696
+      tronchungo3_39: -1535837473
+      tronchungo3_4: -1634023040
+      tronchungo3_40: 241353792
+      tronchungo3_41: 322603619
+      tronchungo3_42: -788542259
+      tronchungo3_43: 328807164
+      tronchungo3_44: -1975628311
+      tronchungo3_45: 649686221
+      tronchungo3_5: -236045338
+      tronchungo3_6: -1809596359
+      tronchungo3_7: -1268440598
+      tronchungo3_8: 1786490644
+      tronchungo3_9: -1943914015
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
